@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <clipPath id="clip-abre">
+      <rect width="140" height="140"/>
+    </clipPath>
+  </defs>
+  <g id="abre" clip-path="url(#clip-abre)">
+    <rect width="140" height="140" fill="transparent"/>
+    <g id="Grupo_31629" data-name="Grupo 31629" transform="translate(-555.001 -330.334)">
+      <path id="Trazado_5640" data-name="Trazado 5640" d="M65,0A65,65,0,1,1,0,65,65,65,0,0,1,65,0Z" transform="translate(560 336)" fill="#333"/>
+      <g id="Grupo_6092" data-name="Grupo 6092" transform="translate(598.506 374.506)">
+        <path id="Trazado_942" data-name="Trazado 942" d="M1288,397v54.714" transform="translate(-1261.62 -397)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <path id="Trazado_943" data-name="Trazado 943" d="M0,0V54.714" transform="translate(0 28.334) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+.articleWrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.contentsWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.articleParagraph {
+  max-width: 700px;
+  font-size: 22px;
+  font-family: "Merriweather", sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 24px 0;
+}
+
+.textLink {
+  color: red;
+}
+
+@media only screen and (max-width: 768px) {
+  .articleParagraph {
+    width: 90%;
+    text-align: justify;
+  }
+  .embebbedImageWrapper {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .embebbedImage {
+    display: block;
+    width: 100%;
+  }
+}

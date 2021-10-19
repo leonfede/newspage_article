@@ -1,0 +1,45 @@
+.shargingWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 24px 48px;
+  font-family: "Poppins", sans-serif;
+}
+
+.sharingLinks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 24px;
+}
+
+.sharingText {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.credits {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 48px 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.creditsTitle {
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.creditsItem {
+  font-weight: 300;
+}
+
+@media only screen and (max-width: 900px) {
+  .creditsItem {
+    font-size: 0.5em;
+    text-align: center;
+  }
+}
